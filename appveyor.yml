@@ -8,6 +8,8 @@ nuget:
 
   project_feed: true
 
+build: off
+
 notifications:
 
 - provider: GitHubPullRequest
